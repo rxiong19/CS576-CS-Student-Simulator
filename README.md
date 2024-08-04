@@ -9,11 +9,16 @@
 - [x] Objects - Computer , beds, window, door, desk, light
 - [x] Can interact with computer (goes to computer menu scene)
 - [x] Can click on door to go to classroom
+<img width="1440" alt="image" src="https://github.com/user-attachments/assets/8e305d9e-099b-483f-8fb7-1568d5d1765d">
+
+
+
 
 # Computer Menu:(Elvira)
 
 - [x] Current Grade - start at 100
 - [x] Study material to from each day (level) to help with exams
+
 
 Door:(Elvira)
 
